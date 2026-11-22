@@ -9,7 +9,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Live app: LIVE_APP_URL
+Live app: https://sellers-dashboard-bb.streamlit.app
 
 ## Files
 
